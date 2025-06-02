@@ -2,6 +2,8 @@
 
 **Chatpdf** is a Streamlit-based web app that allows users to upload a PDF document, ask questions about its content, and receive instant, context-aware answers powered by a Google Generative AI model and retrieval-augmented generation (RAG).
 
+**streamlit link**
+https://rohitashbishnoi91-chatpdf-using-rag-app-j0q8fy.streamlit.app/
 ---
 
 ## Features
