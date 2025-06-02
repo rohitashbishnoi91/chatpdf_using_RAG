@@ -1,6 +1,6 @@
-# PDF Made Easy!
+# Chatpdf!
 
-**PDF Made Easy** is a Streamlit-based web app that allows users to upload a PDF document, ask questions about its content, and receive instant, context-aware answers powered by a Google Generative AI model and retrieval-augmented generation (RAG).
+**Chatpdf** is a Streamlit-based web app that allows users to upload a PDF document, ask questions about its content, and receive instant, context-aware answers powered by a Google Generative AI model and retrieval-augmented generation (RAG).
 
 ---
 
